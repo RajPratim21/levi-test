@@ -1,4 +1,4 @@
-#Basic seaech-index implemntation for searching
+## Basic levi implemntation for searching
 
 This is a basic search engine implemented for analysing performance of Elasticlunr vs seach-index.js
 
@@ -15,8 +15,8 @@ s search is done.
 
 **Conclusion**
 
- elastuclunr beats search-index.
- 
+ Levi beats everyone.
+
 ## Visualization
 
  ![](/plot.png)
