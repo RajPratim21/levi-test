@@ -7,7 +7,7 @@ var lv = levi('db')
 .use(levi.stopword())
 
 var t0 = new Date().getTime()
-	lv.searchStream('At the age of 10, West moved with').toArray(function (results) { //console.log(results) // highland method
+	lv.searchStream('two picks of the 2011 draft').toArray(function (results) { //console.log(results) // highland method
   	var t1 = new Date().getTime()
   	console.log((t1-t0) +' milliseconds')
   })
